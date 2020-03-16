@@ -1,0 +1,14 @@
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\CarPricer.deps.json
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\CarPricer.dll
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.csprojAssemblyReference.cache
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.csproj.CoreCompileInputs.cache
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.AssemblyInfoInputs.cache
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.AssemblyInfo.cs
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\CarPricer.pdb
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.dll
+C:\dev\training\CarPricer\CarPricer\obj\Debug\netcoreapp2.1\CarPricer.pdb
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\CarPricer.runtimeconfig.json
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\CarPricer.runtimeconfig.dev.json
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\training\CarPricer\CarPricer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

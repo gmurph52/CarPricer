@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\training\\CarPricer\\CarPricer\\CarPricer.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\training\\CarPricer\\CarPricer\\CarPricer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\training\\CarPricer\\CarPricer\\CarPricer.csproj",
+        "projectName": "CarPricer",
+        "projectPath": "C:\\dev\\training\\CarPricer\\CarPricer\\CarPricer.csproj",
+        "packagesPath": "C:\\Users\\gerald.murphy\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\training\\CarPricer\\CarPricer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gerald.murphy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://builds.cen.centeva.com/guestAuth/app/nuget/feed/_Root/default/v2": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+              "target": "Package",
+              "version": "[11.0.50727.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
